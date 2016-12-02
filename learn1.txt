@@ -3,6 +3,7 @@ Git is free software.
 vi learn1.txt
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+quick.
 =======
 create a new branch is quite quick.
 Creating a new branch is quick AND simple.
